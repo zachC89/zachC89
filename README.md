@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-The XP Leveling System is a Python-based mini RPG engine designed to simulate player progression through experience points, leveling, HP scaling, healing, and battle encounters.
-This project evolved through two major versions:
+I have A.S. in Cybersecurity and continuing my education to now pursuing a bachelor’s degree in Computing Technology and Software Development. I’m exploring different areas of the tech field while building practical, hands-on projects to strengthen my skills in programming, security concepts, and problem‑solving. I also plan on getting my CompTIA A+ certification very soon too add to my tool belt. My GitHub reflects steady growth, curiosity, and a commitment to developing strong technical foundations as I shape my long‑term direction in technology. Come along my journey to see my skills and knowledge continue to develop. 
 
-Version 1.0 — Core XP and leveling system
-
-Version 2.0 — Full RPG-style stat engine with healing, HP scaling, damage, and battles
-
-Each version comes with 3 files, 1 just clean code, another code file where I add my own personal notes that I wrote down along the way while making changes or explaining why I did something in python. Fianlly a pdf file that explains what the purpose of each version is meant to be for.
-
-Follow me as I add more version updates as I expand my knowledge!
 
 
